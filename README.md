@@ -1,2 +1,2 @@
-# res
-Assistente de filme, palpiteiro e falador, Rubens Evald Sobrinho
+# Dona odete
+Testes de interação com a Dona Odete, v1.0

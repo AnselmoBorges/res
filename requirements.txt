@@ -4,3 +4,4 @@ requests
 pydub
 scipy
 streamlit-audiorecorder
+openai==0.28

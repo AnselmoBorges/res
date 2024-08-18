@@ -87,7 +87,7 @@ multidict==6.0.5
 murmurhash==1.0.10
 narwhals==1.4.1
 networkx==2.8.8
-nltk==3.8.1
+nltk==3.8.2
 num2words==0.5.13
 numba==0.60.0
 numpy==1.22.0

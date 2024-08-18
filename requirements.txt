@@ -24,7 +24,6 @@ charset-normalizer==3.3.2
 click==8.1.7
 cloudpathlib==0.18.1
 colorama==0.4.4
-command-not-found==0.3
 confection==0.1.5
 contourpy==1.2.1
 coqpit==0.0.17

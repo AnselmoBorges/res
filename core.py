@@ -1,20 +1,17 @@
+import base64
 import streamlit as st
 
-# import os
-import base64
-
 # from pathlib import Path
-from ollama import Client
-from dotenv import load_dotenv
+from services.ollama_llm import client
+
+# from dotenv import load_dotenv
 
 from dona_odete_functions import gerar_audio_resposta
 
 
 # Carregando as variaveis de ambiente
-load_dotenv()
+# load_dotenv()
 
-# Configurar chat
-client = Client(host="http://localhost:11434")
 
 # Configurar Streamlit
 st.title("Dona Odete Responde")

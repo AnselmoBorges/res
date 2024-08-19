@@ -96,3 +96,5 @@ else:
         """,
         unsafe_allow_html=True,
     )
+
+# FIXME:  json: cannot unmarshal object into Go struct field ChatRequest.messages of type string

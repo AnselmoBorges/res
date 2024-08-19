@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "res-odete"
+version = "0.1.0"
+description = "non-conventional-llm"
+authors = ["hugoadventist <28987448+hugoadventist@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+TTS = "^0.22.0"
+pytorch = "^1.0.2"
+torch = "^2.4.0"
+ollama = "^0.3.1"
+streamlit = "^1.37.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

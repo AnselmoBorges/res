@@ -12,6 +12,8 @@ from dona_odete_functions import gerar_audio_resposta
 # Carregando as variaveis de ambiente
 # load_dotenv()
 
+# FIXME:  json: cannot unmarshal object into Go struct field ChatRequest.messages of type string
+
 
 # Configurar Streamlit
 st.title("Dona Odete Responde")
